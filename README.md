@@ -24,4 +24,4 @@
 <!-- CONTACT -->
 ## Contact
 
-Satofu - [@satofu.eth](https://twitter.com/satofu.eth) - satofu@pm.me
+Satofu.eth - [@SatofuETH](https://twitter.com/SatofuETH) - satofu@pm.me

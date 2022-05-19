@@ -5,8 +5,6 @@
   <p align="center">
     I write a bit of solidity, and I'm working on something new!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
     <br />
     <a href="https://medium.com/@satofu">Medium</a>
     ·
